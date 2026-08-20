@@ -1,5 +1,32 @@
 [
   {
+    "exercise_name": "clone-repo",
+    "started_at": 1787235933.88376,
+    "completed_at": 1787235936.724904,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787236397.69312,
+    "completed_at": 1787236399.182733,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1787236561.721398,
+    "completed_at": 1787236565.492234,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "grocery-shopping",
     "started_at": 1786943956.681632,
     "completed_at": 1786943959.692271,
@@ -46,10 +73,73 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787150293.28931,
+    "completed_at": 1787150295.255639,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786948394.07276,
+    "completed_at": 1786948397.048493,
+    "comments": [
+      "Missing remote called 'upstream'."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786948442.050256,
+    "completed_at": 1786948443.641339,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "log-and-order",
     "started_at": 1786945338.125128,
     "completed_at": 1786945339.376607,
     "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787149852.475491,
+    "completed_at": 1787149854.630514,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786947872.840937,
+    "completed_at": 1786947884.967318,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786947902.008366,
+    "completed_at": 1786947911.930697,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786947926.369869,
+    "completed_at": 1786947982.036542,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
     "status": "Completed"
   },
   {
@@ -94,69 +184,6 @@
     "completed_at": 1786885157.573166,
     "comments": [
       "You have successfully undone the init operation!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786947872.840937,
-    "completed_at": 1786947884.967318,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786947902.008366,
-    "completed_at": 1786947911.930697,
-    "comments": [
-      "That is not the right Github url!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786947926.369869,
-    "completed_at": 1786947982.036542,
-    "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1786948394.07276,
-    "completed_at": 1786948397.048493,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1786948442.050256,
-    "completed_at": 1786948443.641339,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1787149852.475491,
-    "completed_at": 1787149854.630514,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787150293.28931,
-    "completed_at": 1787150295.255639,
-    "comments": [
-      "Great work using .gitignore!"
     ],
     "status": "Completed"
   }
